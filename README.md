@@ -14,12 +14,12 @@ To add computer vision capabilities, I have designed a camera mount for a USB we
 
 I also want to explore using OpenClaw to query an AI model through a command-line interface when detections are uncertain or confidence scores are low. This could help interpret ambiguous results and make interaction with the robot more intuitive.
 
-##Planned system architecture
+## Planned system architecture
 <img width="912" height="142" alt="Robot_SO100" src="https://github.com/user-attachments/assets/6b1df583-14e6-4e5b-a95f-22a369bb7d8c" />
 
 
 
-##Power distribution PCB
+## Power distribution PCB
 
 <img width="855" height="585" alt="PCBPicture" src="https://github.com/user-attachments/assets/f6993297-2770-418b-849e-28a902309a6b" />
 
