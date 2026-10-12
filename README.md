@@ -1,3 +1,3 @@
 Robot SO-100 Modified with better gripper and also webcam support for AI vision with ROS 2.
 
-<img width="944" height="789" alt="Capture d’écran 2026-10-12 à 00 20 14" src="https://github.com/user-attachments/assets/3e07207e-830a-43f3-a90e-197e6778209a" />
+<img width="3024" height="1614" alt="Robot_Pince_Horizontale_BLEU_2026-Oct-12_07-58-42AM-000_CustomizedView28347459514" src="https://github.com/user-attachments/assets/5a8f6200-943f-4c8e-9478-32a6bec51cec" />
